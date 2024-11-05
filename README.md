@@ -108,10 +108,7 @@ Me chamo Rafael Nascimento, tenho 28 anos e sou natural do Rio de Janeiro. Concl
       height="200"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelrj273&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
   />
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4Ecc089vnSXdrjozrKEFsD?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-<img 
+  <img 
     align="center"
     height="200"
   src="https://raw.githubusercontent.com/JeremyTremblay2/JeremyTremblay2/output/snake-contribution-grid-dark.svg"
