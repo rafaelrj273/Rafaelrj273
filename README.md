@@ -5,23 +5,23 @@
 Me chamo Rafael Nascimento, tenho 28 anos e sou natural do Rio de Janeiro. Concluí o ensino, sou formado como tecnologo em tecnologia da informática pela rede de ensino do Senac. Atualmente, estou cursando Ciência da Computação na ESTÁCIO DE SÁ. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu instagram "[FwebArt](https://www.instagram.com/fwebart_computing/)".
 
 <p align="left">
-      <a href="https://github.com/rafaelrj273">
-        <img 
+    <a href="https://github.com/rafaelrj273"><img 
             alt="Perfil" 
             title="Perfil" 
-            src="https://camo.githubusercontent.com/e58a7cf50b31185bc2f48db50bec00e9e43a9b2f43ad955c6afa5a3346d7e0bc/68747470733a2f2f637573746f6d2d69636f6e2d6261646765732e6865726f6b756170702e636f6d2f62616467652f2d4d792532305265706f732d3239363246463f7374796c653d666f722d7468652d6261646765266c6f676f436f6c6f723d7768697465266c6f676f3d7265706f"
-        />
-             <a href="https://www.linkedin.com/in/faelnrj/"><img 
+            src="https://camo.githubusercontent.com/e58a7cf50b31185bc2f48db50bec00e9e43a9b2f43ad955c6afa5a3346d7e0bc/68747470733a2f2f637573746f6d2d69636f6e2d6261646765732e6865726f6b756170702e636f6d2f62616467652f2d4d792532305265706f732d3239363246463f7374796c653d666f722d7468652d6261646765266c6f676f436f6c6f723d7768697465266c6f676f3d7265706f"/>
+    <a href="https://www.linkedin.com/in/faelnrj/"><img 
             alt="Perfil" 
             title="Perfil" 
             src="https://camo.githubusercontent.com/a7f4a173665f384ffb824b5c2be04649c66c7be04755aa5dc23a9238031535f0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c75653f6c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765"
         />
-           <a href="https://github.com/Larissakich?tab=followers"><img 
+    <a href="https://github.com/rafaelrj273?tab=followers"><img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/Rafaelrj273?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
-    </a><a href="https://github.com/Rafaelrj273?tab=repositories&sort=stargazers">
+    </a>
+    </a> 
+      <a href="https://github.com/Rafaelrj273?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
@@ -115,7 +115,7 @@ Me chamo Rafael Nascimento, tenho 28 anos e sou natural do Rio de Janeiro. Concl
         <img 
             alt="Typescript" 
             title="Typescript" 
-            src="https://camo.githubusercontent.com/6d9ad4becc2d73ac5cefacc1370a6c37458f272a553046ea5e2b8351ea185747/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176612d2532334544384230302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465"
+            src="https://camo.githubusercontent.com/b2eac0f505dfd05c25acf8c285b5eb346916090126c8836c6cbf9aeb754eac32/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7461696c77696e646373732d2532333338423241432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7461696c77696e642d637373266c6f676f436f6c6f723d7768697465"
         />
     </a>
     <br>
@@ -129,11 +129,14 @@ Me chamo Rafael Nascimento, tenho 28 anos e sou natural do Rio de Janeiro. Concl
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Skills
 
+[![My Skills](https://skillicons.dev/icons?i=java,c,py,kotlin,nodejs,aws,gcp,azure,html,js,css,tailwind,react,ts,laravel,php,mysql,postgres,apple,vue,bootstrap,devto,vscode,git,discord,github,linux,windows,flutter&perline=10)](https://skillicons.dev)
+
+
+### 📊 Estatísticas
 <p>
   <img 
-    align="left" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
@@ -141,7 +144,6 @@ Me chamo Rafael Nascimento, tenho 28 anos e sou natural do Rio de Janeiro. Concl
   />
 
 <img 
-      align="left" 
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelrj273&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
