@@ -95,7 +95,6 @@ Me chamo Rafael Nascimento, tenho 28 anos e sou natural do Rio de Janeiro. Concl
         />
     </a>
         </a>
-        <a href="https://github.com/rafaelrj273?tab=repositories">
         <img 
             alt="Angular" 
             title="Angular" 
@@ -103,7 +102,6 @@ Me chamo Rafael Nascimento, tenho 28 anos e sou natural do Rio de Janeiro. Concl
         />
     </a>
         </a>
-        <a href="https://github.com/rafaelrj273?tab=repositories">
         <img 
             alt="Java" 
             title="Java" 
@@ -111,7 +109,6 @@ Me chamo Rafael Nascimento, tenho 28 anos e sou natural do Rio de Janeiro. Concl
         />
     </a>
         </a>
-        <a href="https://github.com/rafaelrj273?tab=repositories">
         <img 
             alt="Typescript" 
             title="Typescript" 
