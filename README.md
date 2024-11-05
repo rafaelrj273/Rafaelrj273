@@ -118,36 +118,20 @@ Me chamo Rafael Nascimento, tenho 28 anos e sou natural do Rio de Janeiro. Concl
             src="https://camo.githubusercontent.com/b2eac0f505dfd05c25acf8c285b5eb346916090126c8836c6cbf9aeb754eac32/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7461696c77696e646373732d2532333338423241432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7461696c77696e642d637373266c6f676f436f6c6f723d7768697465"
         />
     </a>
-    <br>
-    <a href="https://github.com/Larissakich?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
 <br/>
 <br/>
 
 ### 📊 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=java,c,py,kotlin,nodejs,aws,gcp,azure,html,js,css,tailwind,react,ts,laravel,php,mysql,postgres,apple,vue,bootstrap,devto,vscode,git,discord,github,linux,windows,flutter&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,c,py,kotlin,nodejs,aws,gcp,azure,html,js,css,tailwind,react,ts,angular,laravel,php,mysql,postgres,apple,vue,bootstrap,devto,vscode,git,discord,github,linux,windows,flutter&perline=10)](https://skillicons.dev)
 
 
 ### 📊 Estatísticas
 <p>
   <img 
-    align="left" 
+    align="center" 
     alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelrj273&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
   />
-<img 
-    align="right" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=rafaelrj273&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
 </p>
