@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Rafael Nascimento, tenho 28 anos e sou natural do Rio de Janeiro. Concluí o ensino, sou formado como tecnologo em tecnologia da informática pela rede de ensino do Senac. Atualmente, estou cursando Ciência da Computação na ESTÁCIO DE SÁ. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu instagram "[FwebArt](https://www.instagram.com/fwebart_computing/)".
+Me chamo Rafael Nascimento, tenho 29 anos e sou natural do Rio de Janeiro. Concluí o ensino, sou formado como tecnologo em tecnologia da informática pela rede de ensino do Senac. Atualmente, estou cursando Ciência da Computação na ESTÁCIO DE SÁ. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu instagram "[FwebArt](https://www.instagram.com/fwebart_computing/)".
 
 <p align="left">
     <a href="https://github.com/rafaelrj273"><img
